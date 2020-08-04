@@ -8,5 +8,5 @@ I am a Data-Scientist and Software Engineer who wants to live life in 'maker-mod
 
 I am proficient in these technology stacks listed by strength in decending order:
 - Python
-- ES6, ReactJS
 - C++
+- ES6, ReactJS
